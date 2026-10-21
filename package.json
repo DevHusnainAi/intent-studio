@@ -13,23 +13,23 @@
     "test:auth": "node --test e2e/auth.test.ts"
   },
   "dependencies": {
-    "@huggingface/inference": "^4.13.30",
+    "@huggingface/inference": "^4.13.32",
     "@phosphor-icons/react": "^2.1.10",
-    "@supabase/supabase-js": "^2.117.2",
-    "next": "16.3.8",
-    "react": "19.2.8",
-    "react-dom": "19.2.8"
+    "@supabase/supabase-js": "^2.118.0",
+    "next": "16.4.2",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
   },
   "devDependencies": {
-    "@axe-core/playwright": "^4.13.0",
-    "@electric-sql/pglite": "^0.5.8",
+    "@axe-core/playwright": "^4.14.0",
+    "@electric-sql/pglite": "^0.5.10",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "16.3.8",
-    "playwright-core": "^1.63.0",
+    "eslint-config-next": "16.4.2",
+    "playwright-core": "^1.64.1",
     "tailwindcss": "^4",
     "typescript": "^5"
   },
